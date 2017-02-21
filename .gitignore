@@ -40,6 +40,13 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+#unity stuff
+[Ll]ibrary
+[Bb]uild
+*.csproj
+*.sln
+
+
 # DNX
 project.lock.json
 artifacts/
@@ -48,7 +55,6 @@ artifacts/
 *_p.c
 *_i.h
 *.ilk
-*.meta
 *.obj
 *.pch
 *.pdb
